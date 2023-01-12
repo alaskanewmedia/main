@@ -1,0 +1,34 @@
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/vendor';
+@import 'libs/breakpoints';
+
+/*
+	alaskanewmedia.com | @alaskanewmedia
+	Free for personal and commercial use under the CCA 3.0 license (alaskanewmedia.com/license)
+*/
+
+/* Wrapper */
+
+	#wrapper {
+		opacity: 1 !important;
+	}
+
+/* Overlay */
+
+	#overlay {
+		opacity: 1 !important;
+	}
+
+/* Header */
+
+	#header {
+		opacity: 1 !important;
+
+		nav {
+			li {
+				opacity: 1 !important;
+			}
+		}
+	}
